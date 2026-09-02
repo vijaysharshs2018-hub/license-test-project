@@ -1,7 +1,7 @@
 {
   "licenses": {
     "TEST-001": {
-      "active": true,
+      "status": "active",
       "expiresAt": "2027-09-03"
     }
   }
