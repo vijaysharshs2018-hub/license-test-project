@@ -1,4 +1,8 @@
-"TEST-002": {
-  "active": true,
-  "expiresAt": "2027-09-03"
+{
+  "licenses": {
+    "TEST-002": {
+      "active": true,
+      "expiresAt": "2027-09-03"
+    }
+  }
 }
